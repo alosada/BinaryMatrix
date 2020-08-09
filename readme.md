@@ -8,7 +8,8 @@ Given a n*n matrix of zeros and ones, return an array [a,b] where "a" is the num
 A group is defined by adjacent(horizontally and/or vertically, but not diagonally) numbers of the same value.
 Some examples are given below:
 
-```input = [
+```
+input = [
   [1, 0, 1, 1],
   [0, 1, 0, 0],
   [1, 0, 1, 1],
